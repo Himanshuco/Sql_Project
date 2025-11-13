@@ -6,6 +6,8 @@ your team a cleaned dataset — accident_data_india.xlsx — containing detailed
 across India. Your analyst team must use SQL (MySQL) to load the data, perform exploratory analysis, 
 identify high-risk patterns, and prepare recommendations for policy makers. 
 
+### Find the Dataset link here: https://tinyurl.com/sutd3wtc 
+
 ## Objective:
 Using the dataset above, write SQL queries to find patterns of risk, time and location trends, vehicle and 
 driver characteristics related to severity and fatalities. Produce a short briefing document (and presentation) for the NRSB summarizing key findings and actionable recommendations. 
@@ -14,7 +16,7 @@ driver characteristics related to severity and fatalities. Produce a short brief
 ### Setup & Data Load 
 1. Create the database `nrsb_accidents` and table `accidents` with appropriate data types. 
 2. Load the data from the Excel (or CSV) file and verify with SELECT COUNT(*) and SELECT * LIMIT 10. 
-Data Quality & Cleaning 
+### Data Quality & Cleaning 
 3. Identify columns with NULL or missing values. 
 4. Standardize the Month column and normalize Vehicle Type Involved values. 
 ### Exploratory Analysis 
@@ -40,6 +42,6 @@ Data Quality & Cleaning
 19. Write policy recommendations and present findings in a short report or slides. 
 
 ## Deliverables 
-• SQL script file with all queries and cleaning steps. 
-• Short report (2 pages) summarizing top 7 insights with SQL results. 
-• 3–5 slide presentation highlighting insights and recommendations. 
+• SQL script file with all queries and cleaning steps. <br/>
+• Short report (2 pages) summarizing top 7 insights with SQL results. <br/>
+• 3–5 slide presentation highlighting insights and recommendations. <br/>
